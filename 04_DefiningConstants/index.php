@@ -3,6 +3,7 @@
 	// Define a Constant
 	define("TITLE", "Defining Constants");
 	
+	
 	// Variables
 	$my_name = "Brad";
 	$lesson_num = 4;
