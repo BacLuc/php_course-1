@@ -64,7 +64,7 @@
 			
 			<hr>
 			
-			<small>&copy;<!-- YEAR --> - <!-- YOUR NAME --></small>
+			<small>&copy;<?php echo date('Y'); ?> - <?php echo $my_name; ?></small>
 		</div><!-- end wrapper -->
 		
 		<div class="copyright-info">
