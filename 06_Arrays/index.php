@@ -72,15 +72,15 @@ echo $moustaches[2]; // this will display "Fu Manchu"
 				<!-- Did we come from the Foreach Loop lecture? -->
 				<?php if ($ref) { ?>
 				
-				<a href="/<?php echo $ref; ?>" class="button prev">Back to Foreach Loop</a>
+				<a href="../<?php echo $ref; ?>" class="button prev">Back to Foreach Loop</a>
 				
 				<?php } else { ?>
 				
-				<a href="/05_GetYourHandsDirty" class="button prev">Previous Lecture</a>
+				<a href="../05_GetYourHandsDirty" class="button prev">Previous Lecture</a>
 				
 				<?php } ?>
 				
-				<a href="/07_AssociativeArrays" class="button next">Next Lecture</a>
+				<a href="../07_AssociativeArrays" class="button next">Next Lecture</a>
 			</div><!-- end navs -->
 			
 			<hr>
